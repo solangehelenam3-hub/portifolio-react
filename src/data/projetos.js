@@ -1,19 +1,15 @@
 const projetos = [
   {
     id: 1,
-    nome: "Sistema Financeiro Pessoal",
-    descricao: "Controle de receitas, despesas e empréstimos",
+    nome: "Agenda Inteligente para pequenos neóocios",
+    descricao: "Cliente marca horario, sistema envia lembrete, horários do dia, serviços mais pedidos",
   },
   {
     id: 2,
-    nome: "Simulador de Empréstimos INSS",
-    descricao: "Simulação de crédito consignado",
+    nome: "Gerador de conteudo para Redes Sociais",
+    descricao: "Gerador automatico de frases inteligente, Baixar imagem pronto",
   },
-  {
-    id: 3,
-    nome: "Portfólio Profissional",
-    descricao: "Apresentação dos meus serviços",
-  }
+   
 ];
 
 export default projetos;
